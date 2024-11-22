@@ -11,7 +11,7 @@ This is a RESTful API for managing plans, allowing users to create, view, and fi
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/your-repo/plans-api.git
+git clone https://github.com/swarupsuthar/Plans_Api.git
 cd plans-api
 ```
 
